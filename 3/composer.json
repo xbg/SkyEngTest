@@ -1,0 +1,15 @@
+{
+  "name": "SkyEngTest/3",
+  "require": {
+    "php": ">=7.1",
+    "psr/cache": "dev-master",
+    "psr/log": "dev-master",
+    "apix/cache": "^1.3.0",
+    "apix/log": "^1.2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  }
+}
